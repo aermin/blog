@@ -1,4 +1,5 @@
 
+![博客封面](https://github.com/hxvin/blog/blob/master/image/23211103_1373530984051.jpg?raw=true)
 
 ### 前言
 
