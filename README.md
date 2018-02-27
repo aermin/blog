@@ -1,7 +1,7 @@
-# [点击查看博客文章](https://github.com/hxvin/blog/issues)
+# [点击查看全部博客文章](https://github.com/hxvin/blog/issues)
 
 
-### description
+### Description
 
 这里的博客是最新的，更新最即时的。
 
@@ -12,7 +12,7 @@
 
 欢迎订阅（点`watch`）, 收藏（点`star`），不建议fork 😄
 
-## 文章
+## Articles
 
 
 - [js面对对象（创建对象，实现继承）](https://github.com/hxvin/blog/issues/31)
