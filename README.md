@@ -12,7 +12,7 @@
 
 ## Articles
 
-
+- [HTTP强缓存和协商缓存](https://github.com/hxvin/blog/issues/32)
 - [js面对对象（创建对象，实现继承）](https://github.com/hxvin/blog/issues/31)
 - [js事件详解](https://github.com/hxvin/blog/issues/30)
 - [三栏布局： 两边固定 中间自适应 （圣杯，双飞翼，flex）](https://github.com/hxvin/blog/issues/29)
