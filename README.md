@@ -12,6 +12,7 @@
 
 ## Articles
 
+- [web通讯：短轮询，长轮询，websoket](https://github.com/hxvin/blog/issues/33)
 - [HTTP强缓存和协商缓存](https://github.com/hxvin/blog/issues/32)
 - [js面对对象（创建对象，实现继承）](https://github.com/hxvin/blog/issues/31)
 - [js事件详解](https://github.com/hxvin/blog/issues/30)
