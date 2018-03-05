@@ -1,19 +1,17 @@
-# [点击查看全部博客文章](https://github.com/hxvin/blog/issues)
-
 
 ### Description
 
-这里的博客是最新的，更新修正最及时的 ：）
+[这里的博客](https://github.com/hxvin/blog/issues)是最新的，更新修正最及时的 ：）
 
 > 以前写博客的地方：[我在简书的博客](https://www.jianshu.com/u/64d96b36bbc5)可能会逐渐放弃同步文章,[我的个人线上博客](http://www.hxvin.me)已放弃同步文章，之前写的文章已选择性地迁移到这里。
 
-
-欢迎收藏（点`star`） 😄
 
 为了更好的阅读体验，推荐安装这个[chrome目录插件](https://chrome.google.com/webstore/detail/smart-toc/lifgeihcfpkmmlfjbailfpfhbahhibba)
 
 ![36959049-f938f9b8-207a-11e8-8355-c6172351b1bb](https://user-images.githubusercontent.com/24861316/36959109-451245c4-207b-11e8-8e0b-57a7b6edf70e.png)
 
+
+欢迎收藏（点`star`） 😄
 
 ## Articles
 
