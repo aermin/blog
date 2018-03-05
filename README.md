@@ -10,6 +10,11 @@
 
 欢迎收藏（点`star`） 😄
 
+为了更好的阅读体验，推荐安装这个[chrome目录插件](https://chrome.google.com/webstore/detail/smart-toc/lifgeihcfpkmmlfjbailfpfhbahhibba)
+
+![36959049-f938f9b8-207a-11e8-8355-c6172351b1bb](https://user-images.githubusercontent.com/24861316/36959109-451245c4-207b-11e8-8e0b-57a7b6edf70e.png)
+
+
 ## Articles
 
 - [web通讯：短轮询，长轮询，websoket](https://github.com/hxvin/blog/issues/33)
