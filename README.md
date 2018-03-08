@@ -35,7 +35,7 @@
 - [javascript数据结构--栈](https://github.com/hxvin/blog/issues/15)
 - [JS数据结构与算法之基础--数组的各种操作方法](https://github.com/hxvin/blog/issues/14)
 - [js各种遍历总结](https://github.com/hxvin/blog/issues/13)
-- [简单的方法掌握JS中slice,splice和split的使用方法](https://github.com/hxvin/blog/issues/12)
+- [js字符串的操作方法](https://github.com/hxvin/blog/issues/12)
 - [Nginx反向代理centos的80端口](https://github.com/hxvin/blog/issues/11)
 - [web移动端开发总结3--抓包工具篇(Charles)](https://github.com/hxvin/blog/issues/10)
 - [web移动端开发总结2--调试篇](https://github.com/hxvin/blog/issues/9)
