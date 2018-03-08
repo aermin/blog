@@ -22,7 +22,6 @@
 - [js事件详解](https://github.com/hxvin/blog/issues/30)
 - [三栏布局： 两边固定 中间自适应 （圣杯，双飞翼，flex）](https://github.com/hxvin/blog/issues/29)
 - [airchat 打包上线小记 ](https://github.com/hxvin/blog/issues/28)
-- [迟到的2017年终总结 ](https://github.com/hxvin/blog/issues/27)
 - [js设计模式-单例模式（外带全局变量污染解决方法）](https://github.com/hxvin/blog/issues/26)
 - [判断js数据类型 ](https://github.com/hxvin/blog/issues/25)
 - [token，Json web token（jwt）](https://github.com/hxvin/blog/issues/24)
