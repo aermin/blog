@@ -46,7 +46,7 @@
 - [js图片懒加载及优化](https://github.com/hxvin/blog/issues/4)
 - [解决非chrome浏览器（移动端适用）后退刷新问题](https://github.com/hxvin/blog/issues/2)
 
-### [^回到顶部^](#top)
+### [^Up](#top)
 
 
 ![博客封面](https://github.com/hxvin/blog/blob/master/image/23211103_1373530984051.jpg?raw=true)
