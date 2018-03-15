@@ -11,9 +11,16 @@
 ![36959049-f938f9b8-207a-11e8-8355-c6172351b1bb](https://user-images.githubusercontent.com/24861316/36959109-451245c4-207b-11e8-8e0b-57a7b6edf70e.png)
 
 
-欢迎收藏（点`star`） 😄
+欢迎收藏（点`star`） 😄 ；不建议watch， 因为文章我可能会前前后后修改很多次 🤣。
 
-## Articles
+
+### [All Articles](https://github.com/hxvin/blog/issues)
+    
+    包括很多水文 ，慎点  🤣
+ 
+###  Some Articles ⬇︎
+
+  <b>相对</b>没那么水的挂出来  🤣
 
 - [js设计模式--发布订阅模式](https://github.com/hxvin/blog/issues/34)
 - [web通讯：短轮询，长轮询，websoket](https://github.com/hxvin/blog/issues/33)
