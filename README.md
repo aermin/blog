@@ -13,14 +13,10 @@
 
 欢迎收藏（点`star`） 😄 ；不建议watch， 因为文章我可能会前前后后修改很多次 🤣。
 
-
-### [All Articles](https://github.com/hxvin/blog/issues) ⬅︎
-    
-    包括很多水文 ，慎点  🤣
  
 ###  Some Articles ⬇︎
 
-    还是很多水文，慎看  🤣
+    很多水文，慎看  🤣
 
 <b>JS</b>
 
