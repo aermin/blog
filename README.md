@@ -56,6 +56,7 @@
 
 - [javascript数据结构--队列](https://github.com/hxvin/blog/issues/16)
 - [javascript数据结构--栈](https://github.com/hxvin/blog/issues/15)
+- [js数据结构--链表 ](https://github.com/hxvin/blog/issues/36)
 - [冒泡排序](https://github.com/hxvin/blog/issues/20)
 - [数组去重](https://github.com/hxvin/blog/issues/19)
 
@@ -71,6 +72,11 @@
 - [记录下node项目部署上线的过程及坑](https://github.com/hxvin/blog/issues/6)
 - [开发中的react生命周期小记](https://github.com/hxvin/blog/issues/1)
 - [解决非chrome浏览器（移动端适用）后退刷新问题](https://github.com/hxvin/blog/issues/2)
+
+<b>其他</b>
+
+- [浏览器输入地址到页面呈现](https://github.com/hxvin/blog/issues/37)
+- [前端性能优化](https://github.com/hxvin/blog/issues/38)
 
 ### [^Up](#top)
 
