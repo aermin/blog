@@ -74,7 +74,7 @@
 - [浏览器输入地址到页面呈现](https://github.com/hxvin/blog/issues/37)
 - [前端性能优化](https://github.com/hxvin/blog/issues/38)
 
-### [^Up](#top)
+### [^Up](#description)
 
 
 ![博客封面](https://github.com/hxvin/blog/blob/master/image/23211103_1373530984051.jpg?raw=true)
