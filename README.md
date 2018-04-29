@@ -11,7 +11,7 @@
 ![36959049-f938f9b8-207a-11e8-8355-c6172351b1bb](https://user-images.githubusercontent.com/24861316/36959109-451245c4-207b-11e8-8e0b-57a7b6edf70e.png)
 
 
-欢迎收藏（点`star`） 😄 ；不要watch， 因为文章我可能会前前后后修改很多次 🤣。
+欢迎收藏（点`star`） 😄 
 
  
 ###  Some Articles ⬇︎
@@ -66,7 +66,6 @@
 - [web移动端开发总结1--适配篇](https://github.com/aermin/blog/issues/8)
 - [本地mysql客户端连接centos的数据库](https://github.com/aermin/blog/issues/7)
 - [记录下node项目部署上线的过程及坑](https://github.com/aermin/blog/issues/6)
-- [开发中的react生命周期小记](https://github.com/aermin/blog/issues/1)
 - [解决非chrome浏览器（移动端适用）后退刷新问题](https://github.com/aermin/blog/issues/2)
 
 <b>其他</b>
