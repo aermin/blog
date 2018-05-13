@@ -16,8 +16,6 @@
  
 ###  Some Articles ⬇︎
 
-    很多水文，慎看  🤣
-
 <b>JS</b>
 
 - [JS数组的各种操作方法](https://github.com/aermin/blog/issues/14)
@@ -28,7 +26,6 @@
 - [js字符串的操作方法](https://github.com/aermin/blog/issues/12)
 - [js浅拷贝与深拷贝](https://github.com/aermin/blog/issues/18)
 - [js图片懒加载及优化](https://github.com/aermin/blog/issues/4)
-- [js 闭包变量没被回收的原因 ](https://github.com/aermin/blog/issues/39)
 
 <b>HTML && CSS</b>
 
