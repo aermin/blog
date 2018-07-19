@@ -16,6 +16,10 @@
  
 ###  Some Articles ⬇︎
 
+<b>library</b>
+
+- [动手实现一个redux](https://github.com/aermin/blog/issues/48)
+
 <b>JS</b>
 
 - [JS数组的各种操作方法](https://github.com/aermin/blog/issues/14)
@@ -26,6 +30,7 @@
 - [js字符串的操作方法](https://github.com/aermin/blog/issues/12)
 - [js浅拷贝与深拷贝](https://github.com/aermin/blog/issues/18)
 - [js图片懒加载及优化](https://github.com/aermin/blog/issues/4)
+- [ES6的类&&ES6前的继承](https://github.com/aermin/blog/issues/46)
 
 <b>HTML && CSS</b>
 
@@ -69,6 +74,7 @@
 
 - [浏览器输入地址到页面呈现](https://github.com/aermin/blog/issues/37)
 - [前端性能优化](https://github.com/aermin/blog/issues/38)
+- [git整理](https://github.com/aermin/blog/issues/47)
 
 ### [^Up](#description)
 
