@@ -20,6 +20,10 @@
 
 - [动手实现一个redux](https://github.com/aermin/blog/issues/48)
 
+<b>文章翻译</b>
+
+- [界面测试：从WebdriverIO and Selenium 转 Puppeteer (译)](https://github.com/aermin/blog/issues/49)
+
 <b>JS</b>
 
 - [JS数组的各种操作方法](https://github.com/aermin/blog/issues/14)
