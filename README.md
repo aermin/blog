@@ -19,6 +19,7 @@
 <b>library</b>
 
 - [动手实现一个redux](https://github.com/aermin/blog/issues/48)
+- [React生命周期(包括react16版) ](https://github.com/aermin/blog/issues/55)
 
 <b>文章翻译</b>
 
@@ -80,6 +81,7 @@
 - [前端性能优化](https://github.com/aermin/blog/issues/38)
 - [git日常开发使用的指令整理](https://github.com/aermin/blog/issues/47)
 - [正则总结](https://github.com/aermin/blog/issues/35) 
+- [手把手教你用vultr搭梯子科学上网，连接VPS服务器搭建Shadowsocks](https://github.com/aermin/blog/issues/56)
 
 ### [^Up](#description)
 
