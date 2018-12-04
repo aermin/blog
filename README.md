@@ -65,6 +65,7 @@
 
 <b>开发小记</b>
 
+- [写个node脚本自动全局复制文件](https://github.com/aermin/blog/issues/57)
 - [airchat 打包上线小记 ](https://github.com/aermin/blog/issues/28)
 - [mac使用tree](https://github.com/aermin/blog/issues/21)
 - [Nginx反向代理centos的80端口](https://github.com/aermin/blog/issues/11)
