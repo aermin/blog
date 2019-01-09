@@ -53,7 +53,7 @@
 <b>设计模式</b>
 
 - [js设计模式--发布订阅模式](https://github.com/aermin/blog/issues/34)
-- [js设计模式-单例模式（外带全局变量污染解决方法）](https://github.com/aermin/blog/issues/26)
+- [js设计模式-单例模式](https://github.com/aermin/blog/issues/26)
 
 <b>数据结构与算法</b>
 
