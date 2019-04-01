@@ -3,7 +3,7 @@
 
 这里的博客是最新的，更新修正最及时的 ：）
 
-> 以前写博客的地方：[我在简书的博客](https://www.jianshu.com/u/64d96b36bbc5)可能会逐渐放弃同步文章,[我的个人线上博客](http://www.aermin.top)已放弃同步文章，之前写的文章已选择性地迁移到这里。
+> 以前写博客的地方：[我在简书的博客](https://www.jianshu.com/u/64d96b36bbc5)可能会逐渐放弃同步文章,[我的个人线上博客](https://aermin.github.io/)已放弃同步文章，之前写的文章已选择性地迁移到这里。
 
 
 为了更好的阅读体验，推荐安装这个[chrome目录插件](https://chrome.google.com/webstore/detail/smart-toc/lifgeihcfpkmmlfjbailfpfhbahhibba)
@@ -65,6 +65,7 @@
 
 <b>开发小记</b>
 
+- [ghChat开发历程 ](https://github.com/aermin/blog/issues/60)
 - [写个node脚本自动全局复制文件](https://github.com/aermin/blog/issues/57)
 - [airchat 打包上线小记 ](https://github.com/aermin/blog/issues/28)
 - [mac使用tree](https://github.com/aermin/blog/issues/21)
