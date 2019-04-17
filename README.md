@@ -87,6 +87,7 @@
 
 ### [^Up](#description)
 
+[点击加入博客聊天群](https://im.aermin.top/group_chat/9edc2450-60e7-11e9-a4ec-a5a0c435a9d7)
 
 ![博客封面](https://github.com/aermin/blog/blob/master/image/23211103_1373530984051.jpg?raw=true)
 
