@@ -1,15 +1,7 @@
 
 ### Description
 
-这里的博客是最新的，更新修正最及时的 ：）
-
-> 以前写博客的地方：[我在简书的博客](https://www.jianshu.com/u/64d96b36bbc5)可能会逐渐放弃同步文章,[我的个人线上博客](https://aermin.github.io/)已放弃同步文章，之前写的文章已选择性地迁移到这里。
-
-
-为了更好的阅读体验，推荐安装这个[chrome目录插件](https://chrome.google.com/webstore/detail/smart-toc/lifgeihcfpkmmlfjbailfpfhbahhibba)
-
-![36959049-f938f9b8-207a-11e8-8355-c6172351b1bb](https://user-images.githubusercontent.com/24861316/36959109-451245c4-207b-11e8-8e0b-57a7b6edf70e.png)
-
+🏡小码农的自留地
 
 喜欢开坑(新文)，不时完善(旧文)，欢迎收藏(star)
 
@@ -20,6 +12,8 @@
 
 - [动手实现一个redux](https://github.com/aermin/blog/issues/48)
 - [React生命周期(包括react16版) ](https://github.com/aermin/blog/issues/55)
+- [React hook](https://github.com/aermin/blog/issues/67)
+- [浅比较, immutable 及在react的运用](https://github.com/aermin/blog/issues/66)
 
 <b>文章翻译</b>
 
