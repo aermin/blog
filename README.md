@@ -21,6 +21,8 @@
 
 <b>JS</b>
 
+- [JS类型显式转换与隐式转换](https://github.com/aermin/blog/issues/73)
+- [JS/nodeJS 路径及处理方法](https://github.com/aermin/blog/issues/74)
 - [js面对对象（创建对象，实现继承）](https://github.com/aermin/blog/issues/31)
 - [js事件详解](https://github.com/aermin/blog/issues/30)
 - [JS数组的各种操作方法](https://github.com/aermin/blog/issues/14)
@@ -45,6 +47,7 @@
 - [HTTP强缓存和协商缓存](https://github.com/aermin/blog/issues/32)
 
 <b>开发小记</b>
+- [如何创建git服务器](https://github.com/aermin/blog/issues/70)
 - [如何写个CLI？（例子：如何用CLI创建初始化项目）](https://github.com/aermin/blog/issues/65) 
 - [ghChat开发历程 ](https://github.com/aermin/blog/issues/60)
 - [写个node脚本自动全局复制文件](https://github.com/aermin/blog/issues/57)
@@ -60,11 +63,13 @@
 
 <b>设计模式</b>
 
+- [设计模式 --装饰者模式](https://github.com/aermin/blog/issues/68)
 - [js设计模式--发布订阅模式](https://github.com/aermin/blog/issues/34)
 - [js设计模式-单例模式](https://github.com/aermin/blog/issues/26)
 
 <b>数据结构与算法</b>
 
+- [数组与链表](https://github.com/aermin/blog/issues/71)
 - [javascript数据结构--队列](https://github.com/aermin/blog/issues/16)
 - [javascript数据结构--栈](https://github.com/aermin/blog/issues/15)
 - [js数据结构--链表 ](https://github.com/aermin/blog/issues/36)
@@ -73,6 +78,7 @@
 
 <b>其他</b>
 
+- [何为调用栈](https://github.com/aermin/blog/issues/69)
 - [浏览器输入地址到页面呈现](https://github.com/aermin/blog/issues/37)
 - [前端性能优化](https://github.com/aermin/blog/issues/38)
 - [git日常开发使用的指令整理](https://github.com/aermin/blog/issues/47)
