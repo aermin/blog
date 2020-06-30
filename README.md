@@ -27,8 +27,31 @@
 - [三栏布局： 两边固定 中间自适应 （圣杯，双飞翼，flex）](https://github.com/aermin/blog/issues/29)
 - [css margin重叠问题及解决方法（BFC） ](https://github.com/aermin/blog/issues/40)
 
+<b>[数据结构与算法](https://github.com/aermin/blog/issues?q=is%3Aissue+is%3Aopen+label%3A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95)</b>
+
+> leetcode
+
+- [LeetCode | 70. 爬楼梯](https://github.com/aermin/blog/issues/86)
+- [LeetCode | 53. 最大子序和](https://github.com/aermin/blog/issues/85)
+- [LeetCode | 189. 旋转数组](https://github.com/aermin/blog/issues/83)
+- [LeetCode | 122. 买卖股票的最佳时机 II](https://github.com/aermin/blog/issues/82)
+- [LeetCode | 26. 删除排序数组中的重复项](https://github.com/aermin/blog/issues/81)
+
+> other
+
+- [透过一道链表算法题来讲引用类型的引用地址](https://github.com/aermin/blog/issues/76)
+- [大O表示法、时间复杂度、空间复杂度](https://github.com/aermin/blog/issues/77)
+- [数组与链表](https://github.com/aermin/blog/issues/71)
+- [队列](https://github.com/aermin/blog/issues/16)
+- [栈](https://github.com/aermin/blog/issues/15)
+- [链表](https://github.com/aermin/blog/issues/36)
+- [冒泡排序](https://github.com/aermin/blog/issues/20)
+- [数组去重](https://github.com/aermin/blog/issues/19)
+
 <b>Library</b>
 
+- [React性能优化](https://github.com/aermin/blog/issues/84)
+- [业务组件和逻辑复用的方向](https://github.com/aermin/blog/issues/80)
 - [JSX为何能防止xss注入攻击](https://github.com/aermin/blog/issues/75)
 - [动手实现一个redux](https://github.com/aermin/blog/issues/48)
 - [React生命周期(包括react16版) ](https://github.com/aermin/blog/issues/55)
@@ -38,6 +61,7 @@
 <b>HTTP</b>
 
 - [token，Json web token（jwt）](https://github.com/aermin/blog/issues/24)
+- [浏览器的同源策略](https://github.com/aermin/blog/issues/78)
 - [cookie ,session ](https://github.com/aermin/blog/issues/23)
 - [web通讯：短轮询，长轮询，websoket](https://github.com/aermin/blog/issues/33)
 - [图解http--了解web及网络基础](https://github.com/aermin/blog/issues/17)
@@ -64,29 +88,15 @@
 - [js设计模式--发布订阅模式](https://github.com/aermin/blog/issues/34)
 - [js设计模式-单例模式](https://github.com/aermin/blog/issues/26)
 
-<b>数据结构与算法</b>
-
-- [透过一道链表算法题来讲引用类型的引用地址](https://github.com/aermin/blog/issues/76)
-- [大O表示法、时间复杂度、空间复杂度](https://github.com/aermin/blog/issues/77)
-- [数组与链表](https://github.com/aermin/blog/issues/71)
-- [队列](https://github.com/aermin/blog/issues/16)
-- [栈](https://github.com/aermin/blog/issues/15)
-- [链表](https://github.com/aermin/blog/issues/36)
-- [冒泡排序](https://github.com/aermin/blog/issues/20)
-- [数组去重](https://github.com/aermin/blog/issues/19)
-
 <b>其他</b>
 
+- [如何给别人的pr提交代码](https://github.com/aermin/blog/issues/79)
 - [何为调用栈](https://github.com/aermin/blog/issues/69)
+- [界面测试：从WebdriverIO and Selenium 转 Puppeteer (译)](https://github.com/aermin/blog/issues/49)
 - [浏览器输入地址到页面呈现](https://github.com/aermin/blog/issues/37)
 - [前端性能优化](https://github.com/aermin/blog/issues/38)
 - [git日常开发使用的指令整理](https://github.com/aermin/blog/issues/47)
 - [正则总结](https://github.com/aermin/blog/issues/35) 
-- [手把手教你用vultr搭梯子科学上网，连接VPS服务器搭建Shadowsocks](https://github.com/aermin/blog/issues/56)
-
-<b>文章翻译</b>
-
-- [界面测试：从WebdriverIO and Selenium 转 Puppeteer (译)](https://github.com/aermin/blog/issues/49)
 
 ### [^Up](#description)
 
