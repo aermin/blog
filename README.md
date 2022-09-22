@@ -87,6 +87,11 @@
 - [js设计模式--发布订阅模式](https://github.com/aermin/blog/issues/34)
 - [js设计模式-单例模式](https://github.com/aermin/blog/issues/26)
 
+<b>翻译</b>
+
+- [Web Locks API 使用文档(译)](https://github.com/aermin/blog/issues/88)
+- [从WebdriverIO and Selenium 转 Puppeteer (译) ](https://github.com/aermin/blog/issues/49)
+
 <b>其他</b>
 
 - [如何给别人的pr提交代码](https://github.com/aermin/blog/issues/79)
